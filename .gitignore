@@ -1,0 +1,24 @@
+# Python environment
+summarizervenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Audio files
+*.wav
+
+# PDF and text files
+*.pdf
+*.txt
+
+# Output files and logs
+audiooutput.wav
+transcribed.txt
+summary.txt
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
